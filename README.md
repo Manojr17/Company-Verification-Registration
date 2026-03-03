@@ -226,3 +226,7 @@ The application is ready for production deployment with:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+Connect with me :
+<a href="https://instagram.com/_.manoj_.09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.manoj_.09_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manoj0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj0902" height="30" width="40" /></a>
